@@ -1,2 +1,4 @@
 # BikeStore-Revenue-Analysis
-Three year period Revenue Analysis of BikeStore dataset using MySQL and Tableau
+Conducted a three-year revenue analysis of the BikeStore dataset using MySQL for data extraction and transformation.
+Generated detailed yearly, monthly and geographic revenue insights, highlighting top-performing staff, and top customers.
+Developed an interactive dashboard in Tableau to enable dynamic exploration of revenue data, facilitating informed decision-making.
